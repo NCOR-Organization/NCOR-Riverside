@@ -1,7 +1,7 @@
-site_name: "NCOR"
+site_name: "NCOR Riverside"
 repo_url: https://github.com/NCOR-Organization/NCOR-Riverside/
-site_description: NCOR Homepage
-site_author: John Beverley
+site_description: NCOR Riverside
+site_author: John Beverley / Cristian Keroles
 edit_uri: '?query=root/NCOR-Organization/NCOR-Riverside/'
 
 theme:
