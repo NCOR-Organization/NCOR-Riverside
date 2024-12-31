@@ -20,5 +20,5 @@ extra_css:
   - stylesheets/extra.css
   
 nav:
-  - About: index.md
+  - Main: index.md
   
