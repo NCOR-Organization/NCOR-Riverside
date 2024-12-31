@@ -21,35 +21,4 @@ extra_css:
   
 nav:
   - About: index.md
-  - NCOR Labs: 
-    - Ontology 101 WG: ontology-101-wg.md
-    - Common Core Ontologies WG: cco-wg.md
-    - Semantic Mappings WG: semantic-map-wg.md
-    #- Industrial Ontologies WG: iof-wg.md
-    #- Document Acts WG: d-acts-wg.md
-    - Semantic Stack WG: semantic-stack-wg.md
-    - Grduate Applied Ontology Society (GAOS): graduate-applied-ontology-society.md
-    - BFO-CCO Office Hours: office-hours.md
-  - Affiliates: 
-    - People: people.md
-    - Organizations: organizations.md
-  - Training: 
-    - Overview: overview.md
-    - NCOR Pathways: training.md
-      #- Associate: associate.md
-      #- Specialist: specialists.md
-    #- Bootcamps: bootcamps.md
-    - Open-Access Resources: open-access-courses.md
-  - NCOR Wiki: wiki.md
-
-extra:
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAAApbuYB2XIdgO4B_zTBN4RKTGW0OqEylxg&keywords=barry%20smith&origin=RICH_QUERY_SUGGESTION&position=0&searchId=4c7bf265-d8f5-4954-8829-71ac1ab78134&sid=6!x&spellCorrectionEnabled=false
-    - icon: fontawesome/brands/github
-      link: https://github.com/BFO-ontology/BFO-2020
-    - icon: octicons/mail-16
-      link: mailto:johnbeve@buffalo.edu
-
-markdown_extensions:
-    - attr_list
+  
