@@ -10,14 +10,10 @@ theme:
   palette:
     primary: black
   features:
-    - navigation.tabs
     - navigation.tabs.sticky
     - toc.integrate
   hide:
     - toc
-
-extra_css:
-  - stylesheets/extra.css
   
 nav:
   - Main: index.md
